@@ -1,0 +1,16 @@
+.heading{
+    color: rgb(240, 240, 240);
+    width:80%;
+    font-size: 30px;
+    background-color: black;
+    font-variant: small-caps;
+}
+body{
+    background: linear-gradient(rgb(0, 84, 117) 0%, rgb(240, 243, 243) 100%);
+    color:honeydew;
+    font-family: 'Mochiy Pop One', sans-serif;
+
+}
+#capimg{
+    height:300px;
+}
